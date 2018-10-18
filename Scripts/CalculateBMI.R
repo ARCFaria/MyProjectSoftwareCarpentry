@@ -21,7 +21,7 @@ if (BMI < 16) {
     print('Keep on snacking')
   } else {
     if (BMI >= 25) {
-      print('Maybe skip that one chocolate bar before sleep')
+      print('Maybe skip that five chocolate bar before sleep')
     }
   }
 }
